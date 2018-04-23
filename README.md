@@ -1,6 +1,12 @@
-# react-lima
+# create-react-app-mobile-bolierplate
 
 > 开始书写华丽篇章
+
+## 开发环境
+
+- 集成 「热加载」 react-hot-loader
+- 集成 「redux 开发者工具扩展插件」 redux-devtools-extension
+- 集成 「Ant Design Mobile」 ant-mobile
 
 ## 项目架构
 
